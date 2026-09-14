@@ -2,9 +2,11 @@
 
 ## Integrantes
 
-Hermosillo Prado Carlos
-Montes de Oca del Risco Rafael Alejandro
-Ramirez Andrade Uriel Ismael Guadalupe
+- Hermosillo Prado Carlos
+
+- Montes de Oca del Risco Rafael Alejandro
+
+- Ramirez Andrade Uriel Ismael Guadalupe
 
 ---
 
