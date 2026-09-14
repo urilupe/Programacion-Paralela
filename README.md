@@ -1,4 +1,4 @@
-# Práctica 2.6 - Búsqueda Exhaustiva Secuencial y Paralela con OpenMP
+# Actividad 2.6: Problema práctico en OpenMP
 
 ## Integrantes
 
