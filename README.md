@@ -2,13 +2,9 @@
 
 ## Integrantes
 
-> Agregar los nombres completos de los integrantes en orden alfabético.
-
-- [Integrante 1]
-- [Integrante 2]
-- [Integrante 3]
-
-**Equipo:** [Número de equipo]
+Hermosillo Prado Carlos
+Montes de Oca del Risco Rafael Alejandro
+Ramirez Andrade Uriel Ismael Guadalupe
 
 ---
 
